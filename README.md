@@ -30,7 +30,7 @@
 <img align="left" alt="Gradle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 
-<br>
+<br><br>
 
 ## My GitHub Stats:
 
