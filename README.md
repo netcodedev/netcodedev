@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ben
+# Hi there 👋 I'm Ben 
 ### Loving father, coder, human
 
 - 🔭 I’m currently working on a super secret project for [bitbite][bitbite]. More on that soon!
@@ -32,7 +32,7 @@
 
 <br><br>
 
-## My GitHub Stats:
+## My GitHub Stats: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=n3tc0d3)
 
 <img width="400px" alt="n3tc0d3's Stats" src="https://github-readme-stats.vercel.app/api?username=N3TC0D3&show_icons=true&hide_border=false&title_color=427fed&icon_color=427fed&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <!--<img width="400px" alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=n3tc0d3&bg_color=0D1117&color=427fed&line=427fed&point=FFFFFF&hide_border=true" />-->
