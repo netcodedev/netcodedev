@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Ben
-## Loving father, coder, human
+### Loving father, coder, human
 
 - 🔭 I’m currently working on a super secret project for [bitbite][bitbite]. More on that soon!
 - 🌱 I’m currently learning svelte and flutter to create more awesome frontends
 - 🥅 My Goal for 2022 is to publish an app 
 
-### My Languages and Tools:
+## My Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -32,7 +32,7 @@
 
 <br>
 
-### My GitHub Stats:
+## My GitHub Stats:
 
 <div>
 <img align="left" alt="n3tc0d3's Stats" src="https://github-readme-stats.vercel.app/api?username=N3TC0D3&show_icons=true&hide_border=false&title_color=427fed&icon_color=427fed&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
@@ -40,7 +40,7 @@
 </div>
 
 
-### Recent activity:
+## Recent activity:
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#106](https://github.com/DasNasu/Fiae-DE/pull/106) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
