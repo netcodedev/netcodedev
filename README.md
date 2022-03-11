@@ -41,11 +41,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/DasNasu/Fiae-DE/pull/106) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
-2. 💪 Opened PR [#105](https://github.com/DasNasu/Fiae-DE/pull/105) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
-3. 🗣 Commented on [#89](https://github.com/DasNasu/Fiae-DE/issues/89) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
-4. ❗️ Opened issue [#28](https://github.com/bitbitedev/OpenNetLib/issues/28) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-5. ❗️ Closed issue [#1](https://github.com/N3TC0D3/dev.netcode.security/issues/1) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
+1. 🗣 Commented on [#108](https://github.com/DasNasu/Fiae-DE/issues/108) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+2. ❗️ Opened issue [#108](https://github.com/DasNasu/Fiae-DE/issues/108) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+3. 💪 Opened PR [#107](https://github.com/DasNasu/Fiae-DE/pull/107) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+4. 💪 Opened PR [#106](https://github.com/DasNasu/Fiae-DE/pull/106) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+5. 💪 Opened PR [#105](https://github.com/DasNasu/Fiae-DE/pull/105) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
