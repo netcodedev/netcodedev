@@ -41,11 +41,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#76](https://github.com/jamesgeorge007/github-activity-readme/issues/76) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#108](https://github.com/DasNasu/Fiae-DE/issues/108) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
-3. ❗️ Opened issue [#108](https://github.com/DasNasu/Fiae-DE/issues/108) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
-4. 💪 Opened PR [#107](https://github.com/DasNasu/Fiae-DE/pull/107) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
-5. 💪 Opened PR [#106](https://github.com/DasNasu/Fiae-DE/pull/106) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+1. ❗️ Opened issue [#1](https://github.com/N3TC0D3/N3TC0D3/issues/1) in [N3TC0D3/N3TC0D3](https://github.com/N3TC0D3/N3TC0D3)
+2. ❗️ Opened issue [#76](https://github.com/jamesgeorge007/github-activity-readme/issues/76) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#108](https://github.com/DasNasu/Fiae-DE/issues/108) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+4. ❗️ Opened issue [#108](https://github.com/DasNasu/Fiae-DE/issues/108) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+5. 💪 Opened PR [#107](https://github.com/DasNasu/Fiae-DE/pull/107) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
