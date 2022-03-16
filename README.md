@@ -41,11 +41,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/bitbitedev/OpenNetLib/issues/29) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-2. ❗️ Closed issue [#1](https://github.com/N3TC0D3/N3TC0D3/issues/1) in [N3TC0D3/N3TC0D3](https://github.com/N3TC0D3/N3TC0D3)
-3. ❗️ Opened issue [#1](https://github.com/N3TC0D3/N3TC0D3/issues/1) in [N3TC0D3/N3TC0D3](https://github.com/N3TC0D3/N3TC0D3)
-4. ❗️ Opened issue [#76](https://github.com/jamesgeorge007/github-activity-readme/issues/76) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#108](https://github.com/DasNasu/Fiae-DE/issues/108) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+1. ❗️ Closed issue [#10](https://github.com/bitbitedev/CAuth-web/issues/10) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+2. ❗️ Closed issue [#2](https://github.com/bitbitedev/CAuth-App/issues/2) in [bitbitedev/CAuth-App](https://github.com/bitbitedev/CAuth-App)
+3. ❗️ Closed issue [#3](https://github.com/bitbitedev/CAuth-api-php/issues/3) in [bitbitedev/CAuth-api-php](https://github.com/bitbitedev/CAuth-api-php)
+4. ❗️ Closed issue [#25](https://github.com/bitbitedev/CAuth/issues/25) in [bitbitedev/CAuth](https://github.com/bitbitedev/CAuth)
+5. ❗️ Closed issue [#2](https://github.com/bitbitedev/CAuth-api-java/issues/2) in [bitbitedev/CAuth-api-java](https://github.com/bitbitedev/CAuth-api-java)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
