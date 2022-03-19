@@ -41,11 +41,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/bitbitedev/CAuth-api-java/issues/1) in [bitbitedev/CAuth-api-java](https://github.com/bitbitedev/CAuth-api-java)
-2. ❗️ Closed issue [#85](https://github.com/DasNasu/Fiae-DE/issues/85) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
-3. 🎉 Merged PR [#106](https://github.com/DasNasu/Fiae-DE/pull/106) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
-4. 🎉 Merged PR [#107](https://github.com/DasNasu/Fiae-DE/pull/107) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
-5. 🎉 Merged PR [#105](https://github.com/DasNasu/Fiae-DE/pull/105) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+1. 💪 Opened PR [#6](https://github.com/mishmanners/MishManners/pull/6) in [mishmanners/MishManners](https://github.com/mishmanners/MishManners)
+2. ❗️ Closed issue [#1](https://github.com/bitbitedev/CAuth-api-java/issues/1) in [bitbitedev/CAuth-api-java](https://github.com/bitbitedev/CAuth-api-java)
+3. ❗️ Closed issue [#85](https://github.com/DasNasu/Fiae-DE/issues/85) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+4. 🎉 Merged PR [#106](https://github.com/DasNasu/Fiae-DE/pull/106) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+5. 🎉 Merged PR [#107](https://github.com/DasNasu/Fiae-DE/pull/107) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
