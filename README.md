@@ -41,11 +41,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/bitbitedev/OpenNetLib/pull/30) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-2. ❗️ Opened issue [#73](https://github.com/DasNasu/Delicioso/issues/73) in [DasNasu/Delicioso](https://github.com/DasNasu/Delicioso)
-3. 💪 Opened PR [#370](https://github.com/michelf/php-markdown/pull/370) in [michelf/php-markdown](https://github.com/michelf/php-markdown)
-4. 💪 Opened PR [#6](https://github.com/mishmanners/MishManners/pull/6) in [mishmanners/MishManners](https://github.com/mishmanners/MishManners)
-5. ❗️ Closed issue [#1](https://github.com/bitbitedev/CAuth-api-java/issues/1) in [bitbitedev/CAuth-api-java](https://github.com/bitbitedev/CAuth-api-java)
+1. ❗️ Opened issue [#3](https://github.com/N3TC0D3/dev.netcode.plugin/issues/3) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
+2. ❗️ Opened issue [#7](https://github.com/N3TC0D3/dev.netcode.security/issues/7) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
+3. 🎉 Merged PR [#2](https://github.com/N3TC0D3/dev.netcode.util/pull/2) in [N3TC0D3/dev.netcode.util](https://github.com/N3TC0D3/dev.netcode.util)
+4. 🎉 Merged PR [#30](https://github.com/bitbitedev/OpenNetLib/pull/30) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+5. ❗️ Opened issue [#73](https://github.com/DasNasu/Delicioso/issues/73) in [DasNasu/Delicioso](https://github.com/DasNasu/Delicioso)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
