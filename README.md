@@ -41,11 +41,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/N3TC0D3/dev.netcode.plugin/issues/3) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
-2. ❗️ Opened issue [#7](https://github.com/N3TC0D3/dev.netcode.security/issues/7) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
-3. 🎉 Merged PR [#2](https://github.com/N3TC0D3/dev.netcode.util/pull/2) in [N3TC0D3/dev.netcode.util](https://github.com/N3TC0D3/dev.netcode.util)
-4. 🎉 Merged PR [#30](https://github.com/bitbitedev/OpenNetLib/pull/30) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-5. ❗️ Opened issue [#73](https://github.com/DasNasu/Delicioso/issues/73) in [DasNasu/Delicioso](https://github.com/DasNasu/Delicioso)
+1. 🎉 Merged PR [#4](https://github.com/N3TC0D3/dev.netcode.security/pull/4) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
+2. 🎉 Merged PR [#2](https://github.com/N3TC0D3/dev.netcode.plugin/pull/2) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
+3. ❗️ Opened issue [#3](https://github.com/N3TC0D3/dev.netcode.plugin/issues/3) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
+4. ❗️ Opened issue [#7](https://github.com/N3TC0D3/dev.netcode.security/issues/7) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
+5. 🎉 Merged PR [#2](https://github.com/N3TC0D3/dev.netcode.util/pull/2) in [N3TC0D3/dev.netcode.util](https://github.com/N3TC0D3/dev.netcode.util)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
