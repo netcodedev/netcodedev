@@ -41,11 +41,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/N3TC0D3/dev.netcode.plugin/pull/5) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
-2. 💪 Opened PR [#5](https://github.com/N3TC0D3/dev.netcode.plugin/pull/5) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
-3. ❌ Closed PR [#1](https://github.com/N3TC0D3/dev.netcode.plugin/pull/1) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
-4. 🎉 Merged PR [#6](https://github.com/N3TC0D3/dev.netcode.security/pull/6) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
-5. ❗️ Opened issue [#131](https://github.com/DasNasu/Fiae-DE/issues/131) in [DasNasu/Fiae-DE](https://github.com/DasNasu/Fiae-DE)
+1. ❗️ Closed issue [#9](https://github.com/bitbitedev/CAuth-web/issues/9) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+2. 🎉 Merged PR [#5](https://github.com/N3TC0D3/dev.netcode.plugin/pull/5) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
+3. 💪 Opened PR [#5](https://github.com/N3TC0D3/dev.netcode.plugin/pull/5) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
+4. ❌ Closed PR [#1](https://github.com/N3TC0D3/dev.netcode.plugin/pull/1) in [N3TC0D3/dev.netcode.plugin](https://github.com/N3TC0D3/dev.netcode.plugin)
+5. 🎉 Merged PR [#6](https://github.com/N3TC0D3/dev.netcode.security/pull/6) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
