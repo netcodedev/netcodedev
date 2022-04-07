@@ -34,7 +34,13 @@
 
 ## My GitHub Stats: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=n3tc0d3)
 
-<img width="400px" alt="n3tc0d3's Stats" src="https://github-readme-stats.vercel.app/api?username=N3TC0D3&show_icons=true&hide_border=false&title_color=427fed&icon_color=427fed&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<a href="https://github.com/N3TC0D3/">
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=N3TC0D3&show_icons=true&hide_border=false&title_color=427fed&icon_color=427fed&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</a>
+<a href="https://github.com/N3TC0D3/">
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3TC0D3&layout=compact&hide_border=false&title_color=427fed&icon_color=427fed&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</a>
+<!--<img width="400px" alt="n3tc0d3's Stats" src="https://github-readme-stats.vercel.app/api?username=N3TC0D3&show_icons=true&hide_border=false&title_color=427fed&icon_color=427fed&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />-->
 <!--<img width="400px" alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=n3tc0d3&bg_color=0D1117&color=427fed&line=427fed&point=FFFFFF&hide_border=true" />-->
 
 
