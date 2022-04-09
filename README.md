@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/bitbitedev/OpenNetLib/pull/32) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-2. ❗️ Closed issue [#31](https://github.com/bitbitedev/OpenNetLib/issues/31) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-3. 🗣 Commented on [#32](https://github.com/bitbitedev/OpenNetLib/issues/32) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-4. 💪 Opened PR [#32](https://github.com/bitbitedev/OpenNetLib/pull/32) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-5. ❗️ Opened issue [#31](https://github.com/bitbitedev/OpenNetLib/issues/31) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+1. ❗️ Opened issue [#2](https://github.com/N3TC0D3/website/issues/2) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+2. ❗️ Opened issue [#1](https://github.com/N3TC0D3/website/issues/1) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+3. 🎉 Merged PR [#32](https://github.com/bitbitedev/OpenNetLib/pull/32) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+4. ❗️ Closed issue [#31](https://github.com/bitbitedev/OpenNetLib/issues/31) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+5. 🗣 Commented on [#32](https://github.com/bitbitedev/OpenNetLib/issues/32) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
