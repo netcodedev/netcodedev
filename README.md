@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/N3TC0D3/website/issues/2) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-2. ❗️ Opened issue [#1](https://github.com/N3TC0D3/website/issues/1) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-3. 🎉 Merged PR [#32](https://github.com/bitbitedev/OpenNetLib/pull/32) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-4. ❗️ Closed issue [#31](https://github.com/bitbitedev/OpenNetLib/issues/31) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-5. 🗣 Commented on [#32](https://github.com/bitbitedev/OpenNetLib/issues/32) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+1. 🎉 Merged PR [#36](https://github.com/bitbitedev/CAuth-web/pull/36) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+2. 🎉 Merged PR [#37](https://github.com/bitbitedev/CAuth-web/pull/37) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+3. 🎉 Merged PR [#38](https://github.com/bitbitedev/CAuth-web/pull/38) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+4. 🎉 Merged PR [#39](https://github.com/bitbitedev/CAuth-web/pull/39) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+5. 🎉 Merged PR [#40](https://github.com/bitbitedev/CAuth-web/pull/40) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
