@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/N3TC0D3/dev.netcode.security/pull/5) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
-2. 🎉 Merged PR [#3](https://github.com/N3TC0D3/dev.netcode.security/pull/3) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
-3. ❗️ Opened issue [#3](https://github.com/N3TC0D3/website/issues/3) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-4. ❗️ Opened issue [#2](https://github.com/N3TC0D3/website/issues/2) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-5. ❗️ Opened issue [#1](https://github.com/N3TC0D3/website/issues/1) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+1. ❗️ Opened issue [#4](https://github.com/N3TC0D3/website/issues/4) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+2. 🎉 Merged PR [#5](https://github.com/N3TC0D3/dev.netcode.security/pull/5) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
+3. 🎉 Merged PR [#3](https://github.com/N3TC0D3/dev.netcode.security/pull/3) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
+4. ❗️ Opened issue [#3](https://github.com/N3TC0D3/website/issues/3) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+5. ❗️ Opened issue [#2](https://github.com/N3TC0D3/website/issues/2) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
