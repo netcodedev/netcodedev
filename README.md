@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/N3TC0D3/website/issues/6) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-2. 🎉 Merged PR [#5](https://github.com/N3TC0D3/website/pull/5) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-3. ❗️ Closed issue [#2](https://github.com/N3TC0D3/website/issues/2) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-4. 💪 Opened PR [#5](https://github.com/N3TC0D3/website/pull/5) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-5. ❗️ Opened issue [#4](https://github.com/N3TC0D3/website/issues/4) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+1. ❗️ Opened issue [#7](https://github.com/N3TC0D3/website/issues/7) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+2. ❗️ Opened issue [#6](https://github.com/N3TC0D3/website/issues/6) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+3. 🎉 Merged PR [#5](https://github.com/N3TC0D3/website/pull/5) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+4. ❗️ Closed issue [#2](https://github.com/N3TC0D3/website/issues/2) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+5. 💪 Opened PR [#5](https://github.com/N3TC0D3/website/pull/5) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
