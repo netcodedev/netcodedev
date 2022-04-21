@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/N3TC0D3/website/pull/12) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-2. 💪 Opened PR [#12](https://github.com/N3TC0D3/website/pull/12) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-3. ❗️ Opened issue [#11](https://github.com/N3TC0D3/website/issues/11) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-4. ❗️ Closed issue [#9](https://github.com/N3TC0D3/website/issues/9) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-5. 🎉 Merged PR [#10](https://github.com/N3TC0D3/website/pull/10) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+1. 🎉 Merged PR [#4](https://github.com/bitbitedev/CAuth-App/pull/4) in [bitbitedev/CAuth-App](https://github.com/bitbitedev/CAuth-App)
+2. 💪 Opened PR [#4](https://github.com/bitbitedev/CAuth-App/pull/4) in [bitbitedev/CAuth-App](https://github.com/bitbitedev/CAuth-App)
+3. 🎉 Merged PR [#12](https://github.com/N3TC0D3/website/pull/12) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+4. 💪 Opened PR [#12](https://github.com/N3TC0D3/website/pull/12) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+5. ❗️ Opened issue [#11](https://github.com/N3TC0D3/website/issues/11) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
