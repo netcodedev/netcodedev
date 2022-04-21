@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/N3TC0D3/website/issues/7) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-2. 🎉 Merged PR [#8](https://github.com/N3TC0D3/website/pull/8) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-3. 💪 Opened PR [#8](https://github.com/N3TC0D3/website/pull/8) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-4. 🎉 Merged PR [#33](https://github.com/bitbitedev/OpenNetLib/pull/33) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-5. 🎉 Merged PR [#9](https://github.com/N3TC0D3/dev.netcode.security/pull/9) in [N3TC0D3/dev.netcode.security](https://github.com/N3TC0D3/dev.netcode.security)
+1. 🎉 Merged PR [#12](https://github.com/N3TC0D3/website/pull/12) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+2. 💪 Opened PR [#12](https://github.com/N3TC0D3/website/pull/12) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+3. ❗️ Opened issue [#11](https://github.com/N3TC0D3/website/issues/11) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+4. ❗️ Closed issue [#9](https://github.com/N3TC0D3/website/issues/9) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+5. 🎉 Merged PR [#10](https://github.com/N3TC0D3/website/pull/10) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
