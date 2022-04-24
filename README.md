@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/bitbitedev/OpenNetLib/issues/34) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-2. 🎉 Merged PR [#4](https://github.com/bitbitedev/CAuth-App/pull/4) in [bitbitedev/CAuth-App](https://github.com/bitbitedev/CAuth-App)
-3. 💪 Opened PR [#4](https://github.com/bitbitedev/CAuth-App/pull/4) in [bitbitedev/CAuth-App](https://github.com/bitbitedev/CAuth-App)
-4. 🎉 Merged PR [#12](https://github.com/N3TC0D3/website/pull/12) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
-5. 💪 Opened PR [#12](https://github.com/N3TC0D3/website/pull/12) in [N3TC0D3/website](https://github.com/N3TC0D3/website)
+1. ❗️ Opened issue [#6](https://github.com/ThatsNasu/Ansi/issues/6) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
+2. ❗️ Opened issue [#5](https://github.com/ThatsNasu/Ansi/issues/5) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
+3. ❗️ Opened issue [#4](https://github.com/ThatsNasu/Ansi/issues/4) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
+4. ❗️ Opened issue [#34](https://github.com/bitbitedev/OpenNetLib/issues/34) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+5. 🎉 Merged PR [#4](https://github.com/bitbitedev/CAuth-App/pull/4) in [bitbitedev/CAuth-App](https://github.com/bitbitedev/CAuth-App)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
