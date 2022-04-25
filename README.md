@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/netcodedev/knowledge-base/issues/1) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
-2. ❗️ Opened issue [#6](https://github.com/ThatsNasu/Ansi/issues/6) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
-3. ❗️ Opened issue [#5](https://github.com/ThatsNasu/Ansi/issues/5) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
-4. ❗️ Opened issue [#4](https://github.com/ThatsNasu/Ansi/issues/4) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
-5. ❗️ Opened issue [#34](https://github.com/bitbitedev/OpenNetLib/issues/34) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+1. 🎉 Merged PR [#2](https://github.com/netcodedev/knowledge-base/pull/2) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
+2. ❗️ Closed issue [#1](https://github.com/netcodedev/knowledge-base/issues/1) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
+3. 💪 Opened PR [#2](https://github.com/netcodedev/knowledge-base/pull/2) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
+4. ❗️ Opened issue [#1](https://github.com/netcodedev/knowledge-base/issues/1) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
+5. ❗️ Opened issue [#6](https://github.com/ThatsNasu/Ansi/issues/6) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
