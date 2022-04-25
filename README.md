@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/netcodedev/dev.netcode.security/issues/11) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
-2. ❗️ Opened issue [#10](https://github.com/netcodedev/dev.netcode.security/issues/10) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
-3. ❗️ Opened issue [#3](https://github.com/netcodedev/dev.netcode.blockchain/issues/3) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
-4. ❗️ Closed issue [#2](https://github.com/netcodedev/dev.netcode.blockchain/issues/2) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
-5. ❗️ Opened issue [#2](https://github.com/netcodedev/dev.netcode.blockchain/issues/2) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+1. ❗️ Closed issue [#10](https://github.com/netcodedev/dev.netcode.security/issues/10) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+2. ❗️ Closed issue [#11](https://github.com/netcodedev/dev.netcode.security/issues/11) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+3. ❗️ Opened issue [#11](https://github.com/netcodedev/dev.netcode.security/issues/11) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+4. ❗️ Opened issue [#10](https://github.com/netcodedev/dev.netcode.security/issues/10) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+5. ❗️ Opened issue [#3](https://github.com/netcodedev/dev.netcode.blockchain/issues/3) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
