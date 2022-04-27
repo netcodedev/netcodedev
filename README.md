@@ -47,11 +47,11 @@
 ## Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/netcodedev/dev.netcode.blockchain/issues/3) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
-2. 🎉 Merged PR [#4](https://github.com/netcodedev/dev.netcode.blockchain/pull/4) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
-3. 💪 Opened PR [#4](https://github.com/netcodedev/dev.netcode.blockchain/pull/4) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
-4. ❗️ Opened issue [#9](https://github.com/ThatsNasu/Ansi/issues/9) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
-5. ❗️ Opened issue [#8](https://github.com/ThatsNasu/Ansi/issues/8) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
+1. ❗️ Opened issue [#5](https://github.com/netcodedev/dev.netcode.blockchain/issues/5) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+2. ❗️ Closed issue [#3](https://github.com/netcodedev/dev.netcode.blockchain/issues/3) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+3. 🎉 Merged PR [#4](https://github.com/netcodedev/dev.netcode.blockchain/pull/4) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+4. 💪 Opened PR [#4](https://github.com/netcodedev/dev.netcode.blockchain/pull/4) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+5. ❗️ Opened issue [#9](https://github.com/ThatsNasu/Ansi/issues/9) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
