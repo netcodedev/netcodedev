@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Ben 
-### Loving father, coder, human
+### ✌🏻 Loving father, coder, human
 
 - 🔭 I’m currently working on a super secret project for [bitbite][bitbite]. More on that soon!
 - 🌱 I’m currently learning svelte and flutter to create more awesome frontends
 - 🥅 My Goal for 2022 is to publish an app 
 
-## My Languages and Tools:
+## 🛠️ My Languages and Tools:
 
 <div align="center">
 <img title="VSCode" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -34,7 +34,7 @@
 
 <br><br><br>
 
-## My GitHub Stats: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=netcodedev)
+## 📈 My GitHub Stats: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=netcodedev)
 <div align="center">
 <a href="https://github.com/N3TC0D3/">
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=netcodedev&show_icons=true&hide_border=false&title_color=427fed&icon_color=427fed&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
@@ -52,7 +52,7 @@
 <!--<img width="400px" alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=n3tc0d3&bg_color=0D1117&color=427fed&line=427fed&point=FFFFFF&hide_border=true" />-->
 
 
-## Recent activity:
+## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#5](https://github.com/netcodedev/dev.netcode.blockchain/issues/5) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
