@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/netcodedev/website/issues/11) in [netcodedev/website](https://github.com/netcodedev/website)
-2. 🎉 Merged PR [#3](https://github.com/netcodedev/netcodedev/pull/3) in [netcodedev/netcodedev](https://github.com/netcodedev/netcodedev)
-3. ❗️ Closed issue [#2](https://github.com/netcodedev/netcodedev/issues/2) in [netcodedev/netcodedev](https://github.com/netcodedev/netcodedev)
-4. 💪 Opened PR [#3](https://github.com/netcodedev/netcodedev/pull/3) in [netcodedev/netcodedev](https://github.com/netcodedev/netcodedev)
-5. ❗️ Opened issue [#2](https://github.com/netcodedev/netcodedev/issues/2) in [netcodedev/netcodedev](https://github.com/netcodedev/netcodedev)
+1. ❗️ Opened issue [#11](https://github.com/ThatsNasu/Ansi/issues/11) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
+2. ❗️ Closed issue [#11](https://github.com/netcodedev/website/issues/11) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#3](https://github.com/netcodedev/netcodedev/pull/3) in [netcodedev/netcodedev](https://github.com/netcodedev/netcodedev)
+4. ❗️ Closed issue [#2](https://github.com/netcodedev/netcodedev/issues/2) in [netcodedev/netcodedev](https://github.com/netcodedev/netcodedev)
+5. 💪 Opened PR [#3](https://github.com/netcodedev/netcodedev/pull/3) in [netcodedev/netcodedev](https://github.com/netcodedev/netcodedev)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
