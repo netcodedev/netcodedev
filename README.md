@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/netcodedev/knowledge-base/pull/4) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
-2. ❗️ Closed issue [#3](https://github.com/netcodedev/knowledge-base/issues/3) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
-3. 💪 Opened PR [#4](https://github.com/netcodedev/knowledge-base/pull/4) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
-4. ❗️ Opened issue [#3](https://github.com/netcodedev/knowledge-base/issues/3) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
-5. ❗️ Closed issue [#7](https://github.com/netcodedev/dev.netcode.plugin/issues/7) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
+1. ❗️ Closed issue [#6](https://github.com/netcodedev/dev.netcode.blockchain/issues/6) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+2. ❗️ Opened issue [#6](https://github.com/netcodedev/dev.netcode.blockchain/issues/6) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+3. 🎉 Merged PR [#4](https://github.com/netcodedev/knowledge-base/pull/4) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
+4. ❗️ Closed issue [#3](https://github.com/netcodedev/knowledge-base/issues/3) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
+5. 💪 Opened PR [#4](https://github.com/netcodedev/knowledge-base/pull/4) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
