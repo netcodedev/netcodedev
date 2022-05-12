@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/netcodedev/dev.netcode.util/pull/6) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
-2. 💪 Opened PR [#6](https://github.com/netcodedev/dev.netcode.util/pull/6) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
-3. ❗️ Opened issue [#5](https://github.com/netcodedev/dev.netcode.util/issues/5) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
-4. ❗️ Opened issue [#20](https://github.com/bitbitedev/OpenLogLib/issues/20) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-5. ❗️ Opened issue [#19](https://github.com/bitbitedev/OpenLogLib/issues/19) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+1. ❗️ Closed issue [#16](https://github.com/bitbitedev/OpenLogLib/issues/16) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+2. ❌ Closed PR [#18](https://github.com/bitbitedev/OpenLogLib/pull/18) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+3. 🗣 Commented on [#18](https://github.com/bitbitedev/OpenLogLib/issues/18) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+4. ❗️ Closed issue [#5](https://github.com/netcodedev/dev.netcode.util/issues/5) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
+5. 🎉 Merged PR [#6](https://github.com/netcodedev/dev.netcode.util/pull/6) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
