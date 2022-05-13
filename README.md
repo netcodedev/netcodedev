@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/bitbitedev/OpenLogLib/issues/22) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-2. ❗️ Opened issue [#21](https://github.com/bitbitedev/OpenLogLib/issues/21) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-3. 🎉 Merged PR [#12](https://github.com/netcodedev/dev.netcode.security/pull/12) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
-4. ❗️ Closed issue [#16](https://github.com/bitbitedev/OpenLogLib/issues/16) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-5. ❌ Closed PR [#18](https://github.com/bitbitedev/OpenLogLib/pull/18) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+1. ❗️ Opened issue [#23](https://github.com/bitbitedev/OpenLogLib/issues/23) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+2. ❗️ Opened issue [#22](https://github.com/bitbitedev/OpenLogLib/issues/22) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+3. ❗️ Opened issue [#21](https://github.com/bitbitedev/OpenLogLib/issues/21) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+4. 🎉 Merged PR [#12](https://github.com/netcodedev/dev.netcode.security/pull/12) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+5. ❗️ Closed issue [#16](https://github.com/bitbitedev/OpenLogLib/issues/16) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
