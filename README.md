@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/bitbitedev/OpenLogLib/issues/19) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-2. 🗣 Commented on [#23](https://github.com/bitbitedev/OpenLogLib/issues/23) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+1. ❗️ Opened issue [#5191](https://github.com/dependabot/dependabot-core/issues/5191) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+2. 🗣 Commented on [#19](https://github.com/bitbitedev/OpenLogLib/issues/19) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
 3. 🗣 Commented on [#23](https://github.com/bitbitedev/OpenLogLib/issues/23) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-4. ❗️ Opened issue [#24](https://github.com/bitbitedev/OpenLogLib/issues/24) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-5. ❗️ Opened issue [#23](https://github.com/bitbitedev/OpenLogLib/issues/23) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+4. 🗣 Commented on [#23](https://github.com/bitbitedev/OpenLogLib/issues/23) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+5. ❗️ Opened issue [#24](https://github.com/bitbitedev/OpenLogLib/issues/24) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
