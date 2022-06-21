@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/bitbitedev/OpenLogLib/issues/25) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-2. ❗️ Opened issue [#5191](https://github.com/dependabot/dependabot-core/issues/5191) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-3. 🗣 Commented on [#19](https://github.com/bitbitedev/OpenLogLib/issues/19) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+1. 🎉 Merged PR [#12](https://github.com/netcodedev/dev.netcode.blockchain/pull/12) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+2. 🎉 Merged PR [#26](https://github.com/bitbitedev/OpenLogLib/pull/26) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+3. ❗️ Closed issue [#17](https://github.com/bitbitedev/OpenLogLib/issues/17) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
 4. 🗣 Commented on [#23](https://github.com/bitbitedev/OpenLogLib/issues/23) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-5. 🗣 Commented on [#23](https://github.com/bitbitedev/OpenLogLib/issues/23) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+5. 🗣 Commented on [#25](https://github.com/bitbitedev/OpenLogLib/issues/25) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
