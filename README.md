@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28](https://github.com/bitbitedev/OpenLogLib/issues/28) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-2. 🎉 Merged PR [#35](https://github.com/bitbitedev/OpenLogLib/pull/35) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-3. ❗️ Closed issue [#23](https://github.com/bitbitedev/OpenLogLib/issues/23) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-4. 🎉 Merged PR [#34](https://github.com/bitbitedev/OpenLogLib/pull/34) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-5. ❗️ Closed issue [#22](https://github.com/bitbitedev/OpenLogLib/issues/22) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+1. ❗️ Closed issue [#34](https://github.com/bitbitedev/OpenNetLib/issues/34) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+2. 💪 Opened PR [#36](https://github.com/bitbitedev/OpenNetLib/pull/36) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+3. ❗️ Closed issue [#28](https://github.com/bitbitedev/OpenLogLib/issues/28) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+4. 🎉 Merged PR [#35](https://github.com/bitbitedev/OpenLogLib/pull/35) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+5. ❗️ Closed issue [#23](https://github.com/bitbitedev/OpenLogLib/issues/23) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
