@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5191](https://github.com/dependabot/dependabot-core/issues/5191) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-2. 💪 Opened PR [#37](https://github.com/bitbitedev/OpenLogLib/pull/37) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-3. ❗️ Opened issue [#36](https://github.com/bitbitedev/OpenLogLib/issues/36) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-4. ❗️ Closed issue [#34](https://github.com/bitbitedev/OpenNetLib/issues/34) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-5. 💪 Opened PR [#36](https://github.com/bitbitedev/OpenNetLib/pull/36) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+1. 🎉 Merged PR [#13](https://github.com/netcodedev/dev.netcode.security/pull/13) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+2. 🎉 Merged PR [#7](https://github.com/netcodedev/dev.netcode.util/pull/7) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
+3. 🗣 Commented on [#5191](https://github.com/dependabot/dependabot-core/issues/5191) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+4. 💪 Opened PR [#37](https://github.com/bitbitedev/OpenLogLib/pull/37) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+5. ❗️ Opened issue [#36](https://github.com/bitbitedev/OpenLogLib/issues/36) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
