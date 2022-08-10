@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/netcodedev/dev.netcode.security/pull/14) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
-2. 🎉 Merged PR [#13](https://github.com/netcodedev/dev.netcode.security/pull/13) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
-3. 🎉 Merged PR [#7](https://github.com/netcodedev/dev.netcode.util/pull/7) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
-4. 🗣 Commented on [#5191](https://github.com/dependabot/dependabot-core/issues/5191) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-5. 💪 Opened PR [#37](https://github.com/bitbitedev/OpenLogLib/pull/37) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+1. ❗️ Closed issue [#32](https://github.com/bitbitedev/OpenLogLib/issues/32) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+2. 🎉 Merged PR [#39](https://github.com/bitbitedev/OpenLogLib/pull/39) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+3. 🎉 Merged PR [#14](https://github.com/netcodedev/dev.netcode.security/pull/14) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+4. 🎉 Merged PR [#13](https://github.com/netcodedev/dev.netcode.security/pull/13) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+5. 🎉 Merged PR [#7](https://github.com/netcodedev/dev.netcode.util/pull/7) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
