@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/JonasJs/svelte-qrcode/issues/15) in [JonasJs/svelte-qrcode](https://github.com/JonasJs/svelte-qrcode)
-2. 🎉 Merged PR [#9](https://github.com/netcodedev/dev.netcode.plugin/pull/9) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
-3. 🎉 Merged PR [#13](https://github.com/netcodedev/dev.netcode.blockchain/pull/13) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
-4. ❗️ Closed issue [#32](https://github.com/bitbitedev/OpenLogLib/issues/32) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
-5. 🎉 Merged PR [#39](https://github.com/bitbitedev/OpenLogLib/pull/39) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+1. ❗️ Opened issue [#5915](https://github.com/sveltejs/kit/issues/5915) in [sveltejs/kit](https://github.com/sveltejs/kit)
+2. ❗️ Opened issue [#15](https://github.com/JonasJs/svelte-qrcode/issues/15) in [JonasJs/svelte-qrcode](https://github.com/JonasJs/svelte-qrcode)
+3. 🎉 Merged PR [#9](https://github.com/netcodedev/dev.netcode.plugin/pull/9) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
+4. 🎉 Merged PR [#13](https://github.com/netcodedev/dev.netcode.blockchain/pull/13) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+5. ❗️ Closed issue [#32](https://github.com/bitbitedev/OpenLogLib/issues/32) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
