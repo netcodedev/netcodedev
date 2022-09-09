@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/netcodedev/knowledge-base/issues/5) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
-2. ❗️ Closed issue [#5915](https://github.com/sveltejs/kit/issues/5915) in [sveltejs/kit](https://github.com/sveltejs/kit)
-3. ❗️ Opened issue [#5915](https://github.com/sveltejs/kit/issues/5915) in [sveltejs/kit](https://github.com/sveltejs/kit)
-4. ❗️ Opened issue [#15](https://github.com/JonasJs/svelte-qrcode/issues/15) in [JonasJs/svelte-qrcode](https://github.com/JonasJs/svelte-qrcode)
-5. 🎉 Merged PR [#9](https://github.com/netcodedev/dev.netcode.plugin/pull/9) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
+1. 🗣 Commented on [#5191](https://github.com/dependabot/dependabot-core/issues/5191) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+2. ❗️ Opened issue [#5](https://github.com/netcodedev/knowledge-base/issues/5) in [netcodedev/knowledge-base](https://github.com/netcodedev/knowledge-base)
+3. ❗️ Closed issue [#5915](https://github.com/sveltejs/kit/issues/5915) in [sveltejs/kit](https://github.com/sveltejs/kit)
+4. ❗️ Opened issue [#5915](https://github.com/sveltejs/kit/issues/5915) in [sveltejs/kit](https://github.com/sveltejs/kit)
+5. ❗️ Opened issue [#15](https://github.com/JonasJs/svelte-qrcode/issues/15) in [JonasJs/svelte-qrcode](https://github.com/JonasJs/svelte-qrcode)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
