@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/netcodedev/website/pull/52) in [netcodedev/website](https://github.com/netcodedev/website)
-2. ❗️ Opened issue [#22](https://github.com/ThatsNasu/Ansi/issues/22) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
-3. 🎉 Merged PR [#50](https://github.com/netcodedev/website/pull/50) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#16](https://github.com/netcodedev/dev.netcode.security/pull/16) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
-5. 🎉 Merged PR [#49](https://github.com/netcodedev/website/pull/49) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#53](https://github.com/netcodedev/website/pull/53) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#54](https://github.com/netcodedev/website/pull/54) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#52](https://github.com/netcodedev/website/pull/52) in [netcodedev/website](https://github.com/netcodedev/website)
+4. ❗️ Opened issue [#22](https://github.com/ThatsNasu/Ansi/issues/22) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
+5. 🎉 Merged PR [#50](https://github.com/netcodedev/website/pull/50) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
