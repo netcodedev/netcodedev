@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/netcodedev/search-engine/issues/7) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
-2. ❗️ Opened issue [#7](https://github.com/netcodedev/search-engine/issues/7) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
-3. ❗️ Closed issue [#3](https://github.com/netcodedev/search-engine/issues/3) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
-4. 🎉 Merged PR [#5](https://github.com/netcodedev/search-engine/pull/5) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
-5. 🎉 Merged PR [#6](https://github.com/netcodedev/search-engine/pull/6) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+1. ❗️ Closed issue [#8](https://github.com/netcodedev/search-engine/issues/8) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+2. ❗️ Opened issue [#8](https://github.com/netcodedev/search-engine/issues/8) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+3. ❗️ Closed issue [#7](https://github.com/netcodedev/search-engine/issues/7) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+4. ❗️ Opened issue [#7](https://github.com/netcodedev/search-engine/issues/7) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+5. ❗️ Closed issue [#3](https://github.com/netcodedev/search-engine/issues/3) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
