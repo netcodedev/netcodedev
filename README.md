@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/netcodedev/website/pull/108) in [netcodedev/website](https://github.com/netcodedev/website)
-2. 🎉 Merged PR [#109](https://github.com/netcodedev/website/pull/109) in [netcodedev/website](https://github.com/netcodedev/website)
-3. 🎉 Merged PR [#110](https://github.com/netcodedev/website/pull/110) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#111](https://github.com/netcodedev/website/pull/111) in [netcodedev/website](https://github.com/netcodedev/website)
-5. ❗️ Opened issue [#1](https://github.com/MacFJA/sveltekit-cas/issues/1) in [MacFJA/sveltekit-cas](https://github.com/MacFJA/sveltekit-cas)
+1. 🎉 Merged PR [#19](https://github.com/netcodedev/search-engine/pull/19) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+2. 🎉 Merged PR [#20](https://github.com/netcodedev/search-engine/pull/20) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+3. 🎉 Merged PR [#21](https://github.com/netcodedev/search-engine/pull/21) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+4. 🎉 Merged PR [#22](https://github.com/netcodedev/search-engine/pull/22) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+5. 🎉 Merged PR [#108](https://github.com/netcodedev/website/pull/108) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
