@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/DataManagementLab/ThesisPortal/issues/18) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. 🗣 Commented on [#19](https://github.com/DataManagementLab/ThesisPortal/issues/19) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🗣 Commented on [#20](https://github.com/DataManagementLab/ThesisPortal/issues/20) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🗣 Commented on [#7024](https://github.com/sveltejs/kit/issues/7024) in [sveltejs/kit](https://github.com/sveltejs/kit)
-5. 🎉 Merged PR [#17](https://github.com/DataManagementLab/ThesisPortal/pull/17) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🎉 Merged PR [#18](https://github.com/DataManagementLab/ThesisPortal/pull/18) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+2. ❗️ Closed issue [#13](https://github.com/DataManagementLab/ThesisPortal/issues/13) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+3. 🗣 Commented on [#13](https://github.com/DataManagementLab/ThesisPortal/issues/13) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. 🗣 Commented on [#18](https://github.com/DataManagementLab/ThesisPortal/issues/18) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+5. 🗣 Commented on [#19](https://github.com/DataManagementLab/ThesisPortal/issues/19) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
