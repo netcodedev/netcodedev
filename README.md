@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7024](https://github.com/sveltejs/kit/issues/7024) in [sveltejs/kit](https://github.com/sveltejs/kit)
-2. 🎉 Merged PR [#17](https://github.com/DataManagementLab/ThesisPortal/pull/17) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#135](https://github.com/netcodedev/website/pull/135) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#138](https://github.com/netcodedev/website/pull/138) in [netcodedev/website](https://github.com/netcodedev/website)
-5. ❗️ Closed issue [#14](https://github.com/DataManagementLab/ThesisPortal/issues/14) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🗣 Commented on [#18](https://github.com/DataManagementLab/ThesisPortal/issues/18) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+2. 🗣 Commented on [#19](https://github.com/DataManagementLab/ThesisPortal/issues/19) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+3. 🗣 Commented on [#20](https://github.com/DataManagementLab/ThesisPortal/issues/20) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. 🗣 Commented on [#7024](https://github.com/sveltejs/kit/issues/7024) in [sveltejs/kit](https://github.com/sveltejs/kit)
+5. 🎉 Merged PR [#17](https://github.com/DataManagementLab/ThesisPortal/pull/17) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
