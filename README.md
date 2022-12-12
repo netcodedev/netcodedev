@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
-2. ❗️ Opened issue [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
-3. 🎉 Merged PR [#41](https://github.com/DataManagementLab/ThesisPortal/pull/41) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🎉 Merged PR [#42](https://github.com/DataManagementLab/ThesisPortal/pull/42) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#43](https://github.com/DataManagementLab/ThesisPortal/pull/43) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. ❗️ Closed issue [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
+2. 🗣 Commented on [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
+3. 🗣 Commented on [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
+4. 🗣 Commented on [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
+5. ❗️ Opened issue [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
