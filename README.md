@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
-2. 🗣 Commented on [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
-3. 🗣 Commented on [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
-4. 🗣 Commented on [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
-5. ❗️ Opened issue [#8099](https://github.com/sveltejs/kit/issues/8099) in [sveltejs/kit](https://github.com/sveltejs/kit)
+1. 🎉 Merged PR [#152](https://github.com/netcodedev/website/pull/152) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#149](https://github.com/netcodedev/website/pull/149) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#150](https://github.com/netcodedev/website/pull/150) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#151](https://github.com/netcodedev/website/pull/151) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🎉 Merged PR [#153](https://github.com/netcodedev/website/pull/153) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
