@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MacFJA/sveltekit-cas/issues/1) in [MacFJA/sveltekit-cas](https://github.com/MacFJA/sveltekit-cas)
-2. ❗️ Opened issue [#50](https://github.com/DataManagementLab/ThesisPortal/issues/50) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#49](https://github.com/DataManagementLab/ThesisPortal/pull/49) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🎉 Merged PR [#152](https://github.com/netcodedev/website/pull/152) in [netcodedev/website](https://github.com/netcodedev/website)
-5. 🎉 Merged PR [#149](https://github.com/netcodedev/website/pull/149) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#157](https://github.com/netcodedev/website/pull/157) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#154](https://github.com/netcodedev/website/pull/154) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#155](https://github.com/netcodedev/website/pull/155) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#156](https://github.com/netcodedev/website/pull/156) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🎉 Merged PR [#158](https://github.com/netcodedev/website/pull/158) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
