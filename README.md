@@ -55,10 +55,10 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/DataManagementLab/ThesisPortal/pull/53) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. 🗣 Commented on [#53](https://github.com/DataManagementLab/ThesisPortal/issues/53) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#55](https://github.com/DataManagementLab/ThesisPortal/pull/55) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🗣 Commented on [#55](https://github.com/DataManagementLab/ThesisPortal/issues/55) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. ❗️ Closed issue [#16](https://github.com/DataManagementLab/ThesisPortal/issues/16) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+2. 🎉 Merged PR [#53](https://github.com/DataManagementLab/ThesisPortal/pull/53) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+3. 🗣 Commented on [#53](https://github.com/DataManagementLab/ThesisPortal/issues/53) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. 🎉 Merged PR [#55](https://github.com/DataManagementLab/ThesisPortal/pull/55) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 5. 🗣 Commented on [#55](https://github.com/DataManagementLab/ThesisPortal/issues/55) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
