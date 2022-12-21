@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com/DataManagementLab/ThesisPortal/issues/59) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. ❗️ Closed issue [#50](https://github.com/DataManagementLab/ThesisPortal/issues/50) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#58](https://github.com/DataManagementLab/ThesisPortal/pull/58) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 💪 Opened PR [#58](https://github.com/DataManagementLab/ThesisPortal/pull/58) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#163](https://github.com/netcodedev/website/pull/163) in [netcodedev/website](https://github.com/netcodedev/website)
+1. ❗️ Opened issue [#66](https://github.com/surrealdb/surrealdb.js/issues/66) in [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js)
+2. ❗️ Opened issue [#59](https://github.com/DataManagementLab/ThesisPortal/issues/59) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+3. ❗️ Closed issue [#50](https://github.com/DataManagementLab/ThesisPortal/issues/50) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. 🎉 Merged PR [#58](https://github.com/DataManagementLab/ThesisPortal/pull/58) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+5. 💪 Opened PR [#58](https://github.com/DataManagementLab/ThesisPortal/pull/58) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
