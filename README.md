@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#59](https://github.com/DataManagementLab/ThesisPortal/issues/59) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. ❗️ Opened issue [#61](https://github.com/DataManagementLab/ThesisPortal/issues/61) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. ❗️ Opened issue [#66](https://github.com/surrealdb/surrealdb.js/issues/66) in [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js)
-4. ❗️ Opened issue [#59](https://github.com/DataManagementLab/ThesisPortal/issues/59) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. ❗️ Closed issue [#50](https://github.com/DataManagementLab/ThesisPortal/issues/50) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🗣 Commented on [#1](https://github.com/MacFJA/sveltekit-cas/issues/1) in [MacFJA/sveltekit-cas](https://github.com/MacFJA/sveltekit-cas)
+2. ❗️ Closed issue [#59](https://github.com/DataManagementLab/ThesisPortal/issues/59) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+3. ❗️ Opened issue [#61](https://github.com/DataManagementLab/ThesisPortal/issues/61) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. ❗️ Opened issue [#66](https://github.com/surrealdb/surrealdb.js/issues/66) in [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js)
+5. ❗️ Opened issue [#59](https://github.com/DataManagementLab/ThesisPortal/issues/59) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
