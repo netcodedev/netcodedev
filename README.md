@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MacFJA/sveltekit-cas/issues/1) in [MacFJA/sveltekit-cas](https://github.com/MacFJA/sveltekit-cas)
-2. ❗️ Closed issue [#59](https://github.com/DataManagementLab/ThesisPortal/issues/59) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. ❗️ Opened issue [#61](https://github.com/DataManagementLab/ThesisPortal/issues/61) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. ❗️ Opened issue [#66](https://github.com/surrealdb/surrealdb.js/issues/66) in [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js)
-5. ❗️ Opened issue [#59](https://github.com/DataManagementLab/ThesisPortal/issues/59) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🎉 Merged PR [#41](https://github.com/netcodedev/search-engine/pull/41) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+2. 🎉 Merged PR [#40](https://github.com/netcodedev/search-engine/pull/40) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+3. 🎉 Merged PR [#171](https://github.com/netcodedev/website/pull/171) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#38](https://github.com/netcodedev/search-engine/pull/38) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+5. 🎉 Merged PR [#39](https://github.com/netcodedev/search-engine/pull/39) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
