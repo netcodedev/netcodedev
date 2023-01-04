@@ -56,10 +56,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/MacFJA/sveltekit-cas/issues/1) in [MacFJA/sveltekit-cas](https://github.com/MacFJA/sveltekit-cas)
-2. 🎉 Merged PR [#68](https://github.com/DataManagementLab/ThesisPortal/pull/68) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#69](https://github.com/DataManagementLab/ThesisPortal/pull/69) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🎉 Merged PR [#70](https://github.com/DataManagementLab/ThesisPortal/pull/70) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#71](https://github.com/DataManagementLab/ThesisPortal/pull/71) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+2. 🗣 Commented on [#1](https://github.com/MacFJA/sveltekit-cas/issues/1) in [MacFJA/sveltekit-cas](https://github.com/MacFJA/sveltekit-cas)
+3. 🎉 Merged PR [#68](https://github.com/DataManagementLab/ThesisPortal/pull/68) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. 🎉 Merged PR [#69](https://github.com/DataManagementLab/ThesisPortal/pull/69) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+5. 🎉 Merged PR [#70](https://github.com/DataManagementLab/ThesisPortal/pull/70) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
