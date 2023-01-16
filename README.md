@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/DataManagementLab/ThesisPortal/pull/90) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. 🎉 Merged PR [#91](https://github.com/DataManagementLab/ThesisPortal/pull/91) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#93](https://github.com/DataManagementLab/ThesisPortal/pull/93) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🎉 Merged PR [#94](https://github.com/DataManagementLab/ThesisPortal/pull/94) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🗣 Commented on [#7024](https://github.com/sveltejs/kit/issues/7024) in [sveltejs/kit](https://github.com/sveltejs/kit)
+1. 🎉 Merged PR [#92](https://github.com/DataManagementLab/ThesisPortal/pull/92) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+2. ❗️ Opened issue [#96](https://github.com/DataManagementLab/ThesisPortal/issues/96) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+3. 💪 Opened PR [#95](https://github.com/DataManagementLab/ThesisPortal/pull/95) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. 🎉 Merged PR [#90](https://github.com/DataManagementLab/ThesisPortal/pull/90) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+5. 🎉 Merged PR [#91](https://github.com/DataManagementLab/ThesisPortal/pull/91) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
