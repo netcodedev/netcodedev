@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Ben 
 ### ✌🏻 Loving father, coder, human
 
-- 🔭 I’m currently working on a super secret project for [bitbite][bitbite]. More on that soon!
-- 🌱 I’m currently learning svelte and flutter to create more awesome frontends
-- 🥅 My Goal for 2022 is to publish an app 
+- 🔭 I’m currently working on a a project for bachelor degree
+- 🌱 I’m currently learning svelte(kit) and surrealdb to create more awesome fullstack applications
+- 🥅 My Goal for 2023 is to publish an app 
 
 ## 🛠️ My Languages and Tools:
 
