@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/DataManagementLab/ThesisPortal/issues/95) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. ❗️ Closed issue [#61](https://github.com/DataManagementLab/ThesisPortal/issues/61) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#95](https://github.com/DataManagementLab/ThesisPortal/pull/95) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. ❗️ Closed issue [#89](https://github.com/DataManagementLab/ThesisPortal/issues/89) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#97](https://github.com/DataManagementLab/ThesisPortal/pull/97) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🎉 Merged PR [#48](https://github.com/netcodedev/search-engine/pull/48) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+2. 🎉 Merged PR [#178](https://github.com/netcodedev/website/pull/178) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#180](https://github.com/netcodedev/website/pull/180) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#11](https://github.com/netcodedev/dev.netcode.plugin/pull/11) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
+5. 🎉 Merged PR [#43](https://github.com/bitbitedev/OpenNetLib/pull/43) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
