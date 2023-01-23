@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#96](https://github.com/DataManagementLab/ThesisPortal/issues/96) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. 🎉 Merged PR [#103](https://github.com/DataManagementLab/ThesisPortal/pull/103) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#104](https://github.com/DataManagementLab/ThesisPortal/pull/104) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🎉 Merged PR [#105](https://github.com/DataManagementLab/ThesisPortal/pull/105) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#188](https://github.com/netcodedev/website/pull/188) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#51](https://github.com/netcodedev/search-engine/pull/51) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+2. 🎉 Merged PR [#52](https://github.com/netcodedev/search-engine/pull/52) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+3. 🎉 Merged PR [#53](https://github.com/netcodedev/search-engine/pull/53) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+4. 🎉 Merged PR [#47](https://github.com/bitbitedev/OpenLogLib/pull/47) in [bitbitedev/OpenLogLib](https://github.com/bitbitedev/OpenLogLib)
+5. ❗️ Closed issue [#96](https://github.com/DataManagementLab/ThesisPortal/issues/96) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
