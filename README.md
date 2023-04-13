@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#84](https://github.com/surrealdb/surrealdb.js/issues/84) in [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js)
-2. 🎉 Merged PR [#247](https://github.com/netcodedev/website/pull/247) in [netcodedev/website](https://github.com/netcodedev/website)
-3. 🎉 Merged PR [#248](https://github.com/netcodedev/website/pull/248) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#85](https://github.com/netcodedev/search-engine/pull/85) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
-5. 🎉 Merged PR [#83](https://github.com/netcodedev/search-engine/pull/83) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+1. 🎉 Merged PR [#250](https://github.com/netcodedev/website/pull/250) in [netcodedev/website](https://github.com/netcodedev/website)
+2. ❗️ Opened issue [#84](https://github.com/surrealdb/surrealdb.js/issues/84) in [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js)
+3. 🎉 Merged PR [#247](https://github.com/netcodedev/website/pull/247) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#248](https://github.com/netcodedev/website/pull/248) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🎉 Merged PR [#85](https://github.com/netcodedev/search-engine/pull/85) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
