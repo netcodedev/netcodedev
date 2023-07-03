@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#325](https://github.com/netcodedev/website/pull/325) in [netcodedev/website](https://github.com/netcodedev/website)
-2. 🎉 Merged PR [#326](https://github.com/netcodedev/website/pull/326) in [netcodedev/website](https://github.com/netcodedev/website)
-3. 🎉 Merged PR [#327](https://github.com/netcodedev/website/pull/327) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#324](https://github.com/netcodedev/website/pull/324) in [netcodedev/website](https://github.com/netcodedev/website)
-5. 🎉 Merged PR [#317](https://github.com/netcodedev/website/pull/317) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#139](https://github.com/netcodedev/search-engine/pull/139) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+2. 🎉 Merged PR [#140](https://github.com/netcodedev/search-engine/pull/140) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+3. 🎉 Merged PR [#141](https://github.com/netcodedev/search-engine/pull/141) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+4. 🎉 Merged PR [#142](https://github.com/netcodedev/search-engine/pull/142) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+5. 🎉 Merged PR [#143](https://github.com/netcodedev/search-engine/pull/143) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
