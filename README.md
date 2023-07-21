@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#349](https://github.com/netcodedev/website/pull/349) in [netcodedev/website](https://github.com/netcodedev/website)
-2. 🎉 Merged PR [#288](https://github.com/DataManagementLab/ThesisPortal/pull/288) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#297](https://github.com/DataManagementLab/ThesisPortal/pull/297) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🎉 Merged PR [#298](https://github.com/DataManagementLab/ThesisPortal/pull/298) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#299](https://github.com/DataManagementLab/ThesisPortal/pull/299) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🎉 Merged PR [#351](https://github.com/netcodedev/website/pull/351) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#352](https://github.com/netcodedev/website/pull/352) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#353](https://github.com/netcodedev/website/pull/353) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#354](https://github.com/netcodedev/website/pull/354) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🎉 Merged PR [#349](https://github.com/netcodedev/website/pull/349) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
