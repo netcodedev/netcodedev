@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#116](https://github.com/SauravKanchan/svelte-chartjs/issues/116) in [SauravKanchan/svelte-chartjs](https://github.com/SauravKanchan/svelte-chartjs)
-2. 🎉 Merged PR [#14](https://github.com/netcodedev/dev.netcode.util/pull/14) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
-3. 🎉 Merged PR [#16](https://github.com/netcodedev/dev.netcode.plugin/pull/16) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
-4. 🎉 Merged PR [#300](https://github.com/DataManagementLab/ThesisPortal/pull/300) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#301](https://github.com/DataManagementLab/ThesisPortal/pull/301) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🎉 Merged PR [#20](https://github.com/netcodedev/dev.netcode.blockchain/pull/20) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+2. 🎉 Merged PR [#358](https://github.com/netcodedev/website/pull/358) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#356](https://github.com/netcodedev/website/pull/356) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#357](https://github.com/netcodedev/website/pull/357) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🎉 Merged PR [#48](https://github.com/bitbitedev/OpenNetLib/pull/48) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
