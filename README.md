@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#336](https://github.com/DataManagementLab/ThesisPortal/issues/336) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. 🔒 Closed issue [#189](https://github.com/DataManagementLab/ThesisPortal/issues/189) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🗣 Commented on [#189](https://github.com/DataManagementLab/ThesisPortal/issues/189#issuecomment-1731257720) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🔒 Closed issue [#209](https://github.com/DataManagementLab/ThesisPortal/issues/209) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#409](https://github.com/netcodedev/website/pull/409) in [netcodedev/website](https://github.com/netcodedev/website)
+1. ❗ Opened issue [#337](https://github.com/DataManagementLab/ThesisPortal/issues/337) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+2. ❗ Opened issue [#336](https://github.com/DataManagementLab/ThesisPortal/issues/336) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+3. 🔒 Closed issue [#189](https://github.com/DataManagementLab/ThesisPortal/issues/189) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. 🗣 Commented on [#189](https://github.com/DataManagementLab/ThesisPortal/issues/189#issuecomment-1731257720) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+5. 🔒 Closed issue [#209](https://github.com/DataManagementLab/ThesisPortal/issues/209) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
