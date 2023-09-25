@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#207](https://github.com/DataManagementLab/ThesisPortal/issues/207) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. ❗ Opened issue [#340](https://github.com/DataManagementLab/ThesisPortal/issues/340) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🔒 Closed issue [#77](https://github.com/DataManagementLab/ThesisPortal/issues/77) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🗣 Commented on [#77](https://github.com/DataManagementLab/ThesisPortal/issues/77#issuecomment-1733397476) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#338](https://github.com/DataManagementLab/ThesisPortal/pull/338) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🔒 Closed issue [#203](https://github.com/DataManagementLab/ThesisPortal/issues/203) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+2. 🔒 Closed issue [#337](https://github.com/DataManagementLab/ThesisPortal/issues/337) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+3. 🔒 Closed issue [#207](https://github.com/DataManagementLab/ThesisPortal/issues/207) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. ❗ Opened issue [#340](https://github.com/DataManagementLab/ThesisPortal/issues/340) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+5. 🔒 Closed issue [#77](https://github.com/DataManagementLab/ThesisPortal/issues/77) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
