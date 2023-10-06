@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#419](https://github.com/netcodedev/website/pull/419) in [netcodedev/website](https://github.com/netcodedev/website)
-2. 🎉 Merged PR [#341](https://github.com/DataManagementLab/ThesisPortal/pull/341) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#342](https://github.com/DataManagementLab/ThesisPortal/pull/342) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🎉 Merged PR [#343](https://github.com/DataManagementLab/ThesisPortal/pull/343) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#344](https://github.com/DataManagementLab/ThesisPortal/pull/344) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🎉 Merged PR [#422](https://github.com/netcodedev/website/pull/422) in [netcodedev/website](https://github.com/netcodedev/website)
+2. ❗ Opened issue [#1](https://github.com/chriscourses/perlin-noise/issues/1) in [chriscourses/perlin-noise](https://github.com/chriscourses/perlin-noise)
+3. 🎉 Merged PR [#419](https://github.com/netcodedev/website/pull/419) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#341](https://github.com/DataManagementLab/ThesisPortal/pull/341) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+5. 🎉 Merged PR [#342](https://github.com/DataManagementLab/ThesisPortal/pull/342) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
