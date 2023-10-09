@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#421](https://github.com/netcodedev/website/pull/421) in [netcodedev/website](https://github.com/netcodedev/website)
-2. 🎉 Merged PR [#420](https://github.com/netcodedev/website/pull/420) in [netcodedev/website](https://github.com/netcodedev/website)
-3. 🎉 Merged PR [#422](https://github.com/netcodedev/website/pull/422) in [netcodedev/website](https://github.com/netcodedev/website)
-4. ❗ Opened issue [#1](https://github.com/chriscourses/perlin-noise/issues/1) in [chriscourses/perlin-noise](https://github.com/chriscourses/perlin-noise)
-5. 🎉 Merged PR [#419](https://github.com/netcodedev/website/pull/419) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#423](https://github.com/netcodedev/website/pull/423) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#424](https://github.com/netcodedev/website/pull/424) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#198](https://github.com/netcodedev/search-engine/pull/198) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+4. 🎉 Merged PR [#200](https://github.com/netcodedev/search-engine/pull/200) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+5. 🎉 Merged PR [#199](https://github.com/netcodedev/search-engine/pull/199) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
