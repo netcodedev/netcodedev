@@ -55,11 +55,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#357](https://github.com/DataManagementLab/ThesisPortal/pull/357) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-2. 🎉 Merged PR [#358](https://github.com/DataManagementLab/ThesisPortal/pull/358) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-3. 🎉 Merged PR [#359](https://github.com/DataManagementLab/ThesisPortal/pull/359) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-4. 🎉 Merged PR [#360](https://github.com/DataManagementLab/ThesisPortal/pull/360) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
-5. 🎉 Merged PR [#361](https://github.com/DataManagementLab/ThesisPortal/pull/361) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+1. 🎉 Merged PR [#447](https://github.com/netcodedev/website/pull/447) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#22](https://github.com/netcodedev/dev.netcode.blockchain/pull/22) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+3. 🎉 Merged PR [#448](https://github.com/netcodedev/website/pull/448) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#50](https://github.com/bitbitedev/OpenNetLib/pull/50) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+5. 🎉 Merged PR [#29](https://github.com/netcodedev/dev.netcode.security/pull/29) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
