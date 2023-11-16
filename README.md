@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Ben 
 ### ✌🏻 Loving father, coder, human
 
-- 🔭 I’m currently working on a a project for bachelor degree
+- 🔭 I’m currently working on c-auth, an authentication service
 - 🌱 I’m currently learning svelte(kit) and surrealdb to create more awesome fullstack applications
-- 🥅 My Goal for 2023 is to publish an app 
+- 🥅 My Goal for 2023 is to stabilize my applications
 
 ## 🛠️ My Languages and Tools:
 
@@ -48,9 +48,6 @@
         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=netcodedev&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=github-dark-blue" height="200" />
     </a>
  </div>
-<!--<img width="400px" alt="n3tc0d3's Stats" src="https://github-readme-stats.vercel.app/api?username=N3TC0D3&show_icons=true&hide_border=false&title_color=427fed&icon_color=427fed&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />-->
-<!--<img width="400px" alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=n3tc0d3&bg_color=0D1117&color=427fed&line=427fed&point=FFFFFF&hide_border=true" />-->
-
 
 ## 🔥 Recent activity:
 
