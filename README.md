@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#556](https://github.com/bitbitedev/CAuth-web/issues/556) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-2. 🎉 Merged PR [#578](https://github.com/bitbitedev/CAuth-web/pull/578) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-3. 💪 Opened PR [#578](https://github.com/bitbitedev/CAuth-web/pull/578) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-4. 🎉 Merged PR [#574](https://github.com/bitbitedev/CAuth-web/pull/574) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-5. 🗣 Commented on [#574](https://github.com/bitbitedev/CAuth-web/pull/574#issuecomment-1822497306) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+1. 🔒 Closed issue [#579](https://github.com/bitbitedev/CAuth-web/issues/579) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+2. 🎉 Merged PR [#580](https://github.com/bitbitedev/CAuth-web/pull/580) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+3. 💪 Opened PR [#580](https://github.com/bitbitedev/CAuth-web/pull/580) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+4. ❗ Opened issue [#579](https://github.com/bitbitedev/CAuth-web/issues/579) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+5. 🔒 Closed issue [#556](https://github.com/bitbitedev/CAuth-web/issues/556) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
