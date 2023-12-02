@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/ThatsNasu/Ansi/issues/25) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
-2. ❗ Opened issue [#24](https://github.com/ThatsNasu/Ansi/issues/24) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
-3. 🎉 Merged PR [#478](https://github.com/netcodedev/website/pull/478) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#588](https://github.com/bitbitedev/CAuth-web/pull/588) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-5. 🎉 Merged PR [#589](https://github.com/bitbitedev/CAuth-web/pull/589) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+1. 🎉 Merged PR [#479](https://github.com/netcodedev/website/pull/479) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#480](https://github.com/netcodedev/website/pull/480) in [netcodedev/website](https://github.com/netcodedev/website)
+3. ❗ Opened issue [#25](https://github.com/ThatsNasu/Ansi/issues/25) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
+4. ❗ Opened issue [#24](https://github.com/ThatsNasu/Ansi/issues/24) in [ThatsNasu/Ansi](https://github.com/ThatsNasu/Ansi)
+5. 🎉 Merged PR [#478](https://github.com/netcodedev/website/pull/478) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
