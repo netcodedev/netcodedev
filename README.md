@@ -34,7 +34,7 @@
 
 <br><br><br>
 
-## 📈 My GitHub Stats: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=netcodedev)
+## 📈 My GitHub Stats:
 <div align="center">
 <a href="https://github.com/N3TC0D3/">
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=netcodedev&show_icons=true&hide_border=false&title_color=427fed&icon_color=427fed&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
