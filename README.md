@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#234](https://github.com/netcodedev/search-engine/pull/234) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
-2. 🎉 Merged PR [#235](https://github.com/netcodedev/search-engine/pull/235) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
-3. 🎉 Merged PR [#603](https://github.com/bitbitedev/CAuth-web/pull/603) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-4. 🎉 Merged PR [#236](https://github.com/netcodedev/search-engine/pull/236) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
-5. 🎉 Merged PR [#604](https://github.com/bitbitedev/CAuth-web/pull/604) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+1. 🎉 Merged PR [#490](https://github.com/netcodedev/website/pull/490) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#491](https://github.com/netcodedev/website/pull/491) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#605](https://github.com/bitbitedev/CAuth-web/pull/605) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+4. 🎉 Merged PR [#234](https://github.com/netcodedev/search-engine/pull/234) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
+5. 🎉 Merged PR [#235](https://github.com/netcodedev/search-engine/pull/235) in [netcodedev/search-engine](https://github.com/netcodedev/search-engine)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
