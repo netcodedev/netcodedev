@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3296](https://github.com/surrealdb/surrealdb/issues/3296#issuecomment-1884594150) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-2. ❗ Opened issue [#3296](https://github.com/surrealdb/surrealdb/issues/3296) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-3. 🎉 Merged PR [#630](https://github.com/bitbitedev/CAuth-web/pull/630) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-4. 🎉 Merged PR [#626](https://github.com/bitbitedev/CAuth-web/pull/626) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-5. 🎉 Merged PR [#631](https://github.com/bitbitedev/CAuth-web/pull/631) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+1. 🎉 Merged PR [#634](https://github.com/bitbitedev/CAuth-web/pull/634) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+2. 🎉 Merged PR [#518](https://github.com/netcodedev/website/pull/518) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🗣 Commented on [#3296](https://github.com/surrealdb/surrealdb/issues/3296#issuecomment-1884594150) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+4. ❗ Opened issue [#3296](https://github.com/surrealdb/surrealdb/issues/3296) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+5. 🎉 Merged PR [#630](https://github.com/bitbitedev/CAuth-web/pull/630) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
