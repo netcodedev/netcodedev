@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#644](https://github.com/bitbitedev/CAuth-web/pull/644) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-2. 🎉 Merged PR [#645](https://github.com/bitbitedev/CAuth-web/pull/645) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-3. 🎉 Merged PR [#646](https://github.com/bitbitedev/CAuth-web/pull/646) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-4. 🎉 Merged PR [#647](https://github.com/bitbitedev/CAuth-web/pull/647) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-5. 🎉 Merged PR [#526](https://github.com/netcodedev/website/pull/526) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#528](https://github.com/netcodedev/website/pull/528) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#529](https://github.com/netcodedev/website/pull/529) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🗣 Commented on [#528](https://github.com/netcodedev/website/pull/528#issuecomment-1900357084) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🗣 Commented on [#529](https://github.com/netcodedev/website/pull/529#issuecomment-1900356867) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🎉 Merged PR [#648](https://github.com/bitbitedev/CAuth-web/pull/648) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
