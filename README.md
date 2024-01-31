@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#546](https://github.com/netcodedev/website/pull/546) in [netcodedev/website](https://github.com/netcodedev/website)
-2. 🎉 Merged PR [#547](https://github.com/netcodedev/website/pull/547) in [netcodedev/website](https://github.com/netcodedev/website)
-3. 🗣 Commented on [#10341](https://github.com/sveltejs/svelte/issues/10341#issuecomment-1918648907) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-4. 🔒 Closed issue [#10341](https://github.com/sveltejs/svelte/issues/10341) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-5. ❗ Opened issue [#10341](https://github.com/sveltejs/svelte/issues/10341) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+1. 🎉 Merged PR [#545](https://github.com/netcodedev/website/pull/545) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#546](https://github.com/netcodedev/website/pull/546) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#547](https://github.com/netcodedev/website/pull/547) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🗣 Commented on [#10341](https://github.com/sveltejs/svelte/issues/10341#issuecomment-1918648907) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+5. 🔒 Closed issue [#10341](https://github.com/sveltejs/svelte/issues/10341) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
