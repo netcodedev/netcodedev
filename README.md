@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [OpenNetLib 2.0.1](https://github.com/bitbitedev/OpenNetLib/releases/tag/v2.0.1) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-2. 🎉 Merged PR [#545](https://github.com/netcodedev/website/pull/545) in [netcodedev/website](https://github.com/netcodedev/website)
-3. 🎉 Merged PR [#546](https://github.com/netcodedev/website/pull/546) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#547](https://github.com/netcodedev/website/pull/547) in [netcodedev/website](https://github.com/netcodedev/website)
-5. 🗣 Commented on [#10341](https://github.com/sveltejs/svelte/issues/10341#issuecomment-1918648907) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+1. 🎉 Merged PR [#661](https://github.com/bitbitedev/CAuth-web/pull/661) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+2. 🚀 Published release [OpenNetLib 2.0.1](https://github.com/bitbitedev/OpenNetLib/releases/tag/v2.0.1) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+3. 🎉 Merged PR [#545](https://github.com/netcodedev/website/pull/545) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#546](https://github.com/netcodedev/website/pull/546) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🎉 Merged PR [#547](https://github.com/netcodedev/website/pull/547) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
