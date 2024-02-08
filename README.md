@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/bitbitedev/OpenNetLib/issues/52#issuecomment-1931893017) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-2. 🔒 Closed issue [#52](https://github.com/bitbitedev/OpenNetLib/issues/52) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-3. 🗣 Commented on [#53](https://github.com/bitbitedev/OpenNetLib/issues/53#issuecomment-1931872910) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-4. 🔒 Closed issue [#53](https://github.com/bitbitedev/OpenNetLib/issues/53) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-5. 🎉 Merged PR [#550](https://github.com/netcodedev/website/pull/550) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#375](https://github.com/DataManagementLab/ThesisPortal/pull/375) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+2. 🎉 Merged PR [#376](https://github.com/DataManagementLab/ThesisPortal/pull/376) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+3. 🎉 Merged PR [#378](https://github.com/DataManagementLab/ThesisPortal/pull/378) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+4. 🎉 Merged PR [#379](https://github.com/DataManagementLab/ThesisPortal/pull/379) in [DataManagementLab/ThesisPortal](https://github.com/DataManagementLab/ThesisPortal)
+5. 🎉 Merged PR [#554](https://github.com/netcodedev/website/pull/554) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
