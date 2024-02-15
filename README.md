@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [OpenNetLib-Protocols 0.0.2](https://github.com/bitbitedev/OpenNetLib-Protocols/releases/tag/v0.0.2) in [bitbitedev/OpenNetLib-Protocols](https://github.com/bitbitedev/OpenNetLib-Protocols)
-2. 🚀 Published release [OpenNetLib-Protocols 0.0.1](https://github.com/bitbitedev/OpenNetLib-Protocols/releases/tag/v0.0.1) in [bitbitedev/OpenNetLib-Protocols](https://github.com/bitbitedev/OpenNetLib-Protocols)
-3. 🎉 Merged PR [#672](https://github.com/bitbitedev/CAuth-web/pull/672) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-4. 🎉 Merged PR [#673](https://github.com/bitbitedev/CAuth-web/pull/673) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-5. 🎉 Merged PR [#562](https://github.com/netcodedev/website/pull/562) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#565](https://github.com/netcodedev/website/pull/565) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#566](https://github.com/netcodedev/website/pull/566) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#674](https://github.com/bitbitedev/CAuth-web/pull/674) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+4. 🎉 Merged PR [#675](https://github.com/bitbitedev/CAuth-web/pull/675) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+5. 🚀 Published release [OpenNetLib-Protocols 0.0.2](https://github.com/bitbitedev/OpenNetLib-Protocols/releases/tag/v0.0.2) in [bitbitedev/OpenNetLib-Protocols](https://github.com/bitbitedev/OpenNetLib-Protocols)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
