@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/bitbitedev/openirc/pull/54) in [bitbitedev/openirc](https://github.com/bitbitedev/openirc)
-2. 💪 Opened PR [#54](https://github.com/bitbitedev/openirc/pull/54) in [bitbitedev/openirc](https://github.com/bitbitedev/openirc)
-3. 🎉 Merged PR [#50](https://github.com/bitbitedev/openirc/pull/50) in [bitbitedev/openirc](https://github.com/bitbitedev/openirc)
-4. ❗ Opened issue [#55](https://github.com/bitbitedev/OpenNetLib/issues/55) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
-5. 🎉 Merged PR [#565](https://github.com/netcodedev/website/pull/565) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#677](https://github.com/bitbitedev/CAuth-web/pull/677) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+2. 🎉 Merged PR [#569](https://github.com/netcodedev/website/pull/569) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#54](https://github.com/bitbitedev/openirc/pull/54) in [bitbitedev/openirc](https://github.com/bitbitedev/openirc)
+4. 💪 Opened PR [#54](https://github.com/bitbitedev/openirc/pull/54) in [bitbitedev/openirc](https://github.com/bitbitedev/openirc)
+5. 🎉 Merged PR [#50](https://github.com/bitbitedev/openirc/pull/50) in [bitbitedev/openirc](https://github.com/bitbitedev/openirc)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
