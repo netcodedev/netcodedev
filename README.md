@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3971](https://github.com/surrealdb/surrealdb/issues/3971#issuecomment-2090486599) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-2. 🗣 Commented on [#3973](https://github.com/surrealdb/surrealdb/issues/3973#issuecomment-2090045991) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-3. 🗣 Commented on [#3971](https://github.com/surrealdb/surrealdb/issues/3971#issuecomment-2090001893) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-4. 🗣 Commented on [#3971](https://github.com/surrealdb/surrealdb/issues/3971#issuecomment-2089942158) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-5. 🗣 Commented on [#3973](https://github.com/surrealdb/surrealdb/issues/3973#issuecomment-2089940074) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+1. 🗣 Commented on [#3971](https://github.com/surrealdb/surrealdb/issues/3971#issuecomment-2090767707) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+2. 🗣 Commented on [#3971](https://github.com/surrealdb/surrealdb/issues/3971#issuecomment-2090486599) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+3. 🗣 Commented on [#3973](https://github.com/surrealdb/surrealdb/issues/3973#issuecomment-2090045991) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+4. 🗣 Commented on [#3971](https://github.com/surrealdb/surrealdb/issues/3971#issuecomment-2090001893) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+5. 🗣 Commented on [#3971](https://github.com/surrealdb/surrealdb/issues/3971#issuecomment-2089942158) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
