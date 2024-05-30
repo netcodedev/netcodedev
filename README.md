@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#750](https://github.com/bitbitedev/CAuth-web/pull/750) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-2. ❗ Opened issue [#4](https://github.com/bitbitedev/surrealdb-java/issues/4) in [bitbitedev/surrealdb-java](https://github.com/bitbitedev/surrealdb-java)
-3. 🗣 Commented on [#1](https://github.com/bitbitedev/surrealdb-java/issues/1#issuecomment-2133872087) in [bitbitedev/surrealdb-java](https://github.com/bitbitedev/surrealdb-java)
-4. 🔒 Closed issue [#1](https://github.com/bitbitedev/surrealdb-java/issues/1) in [bitbitedev/surrealdb-java](https://github.com/bitbitedev/surrealdb-java)
-5. 🗣 Commented on [#2](https://github.com/bitbitedev/surrealdb-java/issues/2#issuecomment-2133821864) in [bitbitedev/surrealdb-java](https://github.com/bitbitedev/surrealdb-java)
+1. 🎉 Merged PR [#672](https://github.com/netcodedev/website/pull/672) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#673](https://github.com/netcodedev/website/pull/673) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#674](https://github.com/netcodedev/website/pull/674) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#751](https://github.com/bitbitedev/CAuth-web/pull/751) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+5. 🎉 Merged PR [#750](https://github.com/bitbitedev/CAuth-web/pull/750) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
