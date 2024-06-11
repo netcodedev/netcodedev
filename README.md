@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#684](https://github.com/netcodedev/website/pull/684) in [netcodedev/website](https://github.com/netcodedev/website)
-2. 🗣 Commented on [#2162](https://github.com/IrisShaders/Iris/issues/2162#issuecomment-2150596790) in [IrisShaders/Iris](https://github.com/IrisShaders/Iris)
-3. 🎉 Merged PR [#679](https://github.com/netcodedev/website/pull/679) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#752](https://github.com/bitbitedev/CAuth-web/pull/752) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
-5. 🎉 Merged PR [#670](https://github.com/netcodedev/website/pull/670) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#686](https://github.com/netcodedev/website/pull/686) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#687](https://github.com/netcodedev/website/pull/687) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#684](https://github.com/netcodedev/website/pull/684) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🗣 Commented on [#2162](https://github.com/IrisShaders/Iris/issues/2162#issuecomment-2150596790) in [IrisShaders/Iris](https://github.com/IrisShaders/Iris)
+5. 🎉 Merged PR [#679](https://github.com/netcodedev/website/pull/679) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
