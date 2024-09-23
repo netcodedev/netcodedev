@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Ben 
 ### ✌🏻 Loving father, coder, human
 
-- 🔭 I’m currently working on c-auth, an authentication service
-- 🌱 I’m currently learning svelte(kit) and surrealdb to create more awesome fullstack applications
-- 🥅 My Goal for 2023 is to stabilize my applications
+- 🔭 I’m currently working on a Voxel Engine
+- 🌱 I’m currently learning rust and OpenGL
+- 🥅 My Goal for 2024 is to get a better understanding of rust and OpenGL
 
 ## 🛠️ My Languages and Tools:
 
