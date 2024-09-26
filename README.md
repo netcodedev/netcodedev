@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/netcodedev/dev.netcode.plugin/pull/24) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
-2. 🎉 Merged PR [#28](https://github.com/netcodedev/dev.netcode.blockchain/pull/28) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
-3. 🎉 Merged PR [#749](https://github.com/netcodedev/website/pull/749) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#751](https://github.com/netcodedev/website/pull/751) in [netcodedev/website](https://github.com/netcodedev/website)
-5. 🎉 Merged PR [#799](https://github.com/bitbitedev/CAuth-web/pull/799) in [bitbitedev/CAuth-web](https://github.com/bitbitedev/CAuth-web)
+1. 🎉 Merged PR [#7](https://github.com/netcodedev/voxelengine/pull/7) in [netcodedev/voxelengine](https://github.com/netcodedev/voxelengine)
+2. 💪 Opened PR [#7](https://github.com/netcodedev/voxelengine/pull/7) in [netcodedev/voxelengine](https://github.com/netcodedev/voxelengine)
+3. 🎉 Merged PR [#24](https://github.com/netcodedev/dev.netcode.plugin/pull/24) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
+4. 🎉 Merged PR [#28](https://github.com/netcodedev/dev.netcode.blockchain/pull/28) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+5. 🎉 Merged PR [#749](https://github.com/netcodedev/website/pull/749) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
