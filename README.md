@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/netcodedev/voxelengine/pull/7) in [netcodedev/voxelengine](https://github.com/netcodedev/voxelengine)
-2. 💪 Opened PR [#7](https://github.com/netcodedev/voxelengine/pull/7) in [netcodedev/voxelengine](https://github.com/netcodedev/voxelengine)
-3. 🎉 Merged PR [#24](https://github.com/netcodedev/dev.netcode.plugin/pull/24) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
-4. 🎉 Merged PR [#28](https://github.com/netcodedev/dev.netcode.blockchain/pull/28) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
-5. 🎉 Merged PR [#749](https://github.com/netcodedev/website/pull/749) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#752](https://github.com/netcodedev/website/pull/752) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#754](https://github.com/netcodedev/website/pull/754) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#60](https://github.com/bitbitedev/OpenNetLib/pull/60) in [bitbitedev/OpenNetLib](https://github.com/bitbitedev/OpenNetLib)
+4. 🎉 Merged PR [#38](https://github.com/netcodedev/dev.netcode.security/pull/38) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+5. 🎉 Merged PR [#22](https://github.com/netcodedev/dev.netcode.util/pull/22) in [netcodedev/dev.netcode.util](https://github.com/netcodedev/dev.netcode.util)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
