@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#784](https://github.com/netcodedev/website/pull/784) in [netcodedev/website](https://github.com/netcodedev/website)
-2. 🎉 Merged PR [#775](https://github.com/netcodedev/website/pull/775) in [netcodedev/website](https://github.com/netcodedev/website)
-3. 🔒 Closed issue [#21](https://github.com/bonsairobo/fast-surface-nets-rs/issues/21) in [bonsairobo/fast-surface-nets-rs](https://github.com/bonsairobo/fast-surface-nets-rs)
-4. 🗣 Commented on [#21](https://github.com/bonsairobo/fast-surface-nets-rs/issues/21#issuecomment-2452925652) in [bonsairobo/fast-surface-nets-rs](https://github.com/bonsairobo/fast-surface-nets-rs)
-5. 🎉 Merged PR [#776](https://github.com/netcodedev/website/pull/776) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🎉 Merged PR [#785](https://github.com/netcodedev/website/pull/785) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#786](https://github.com/netcodedev/website/pull/786) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#784](https://github.com/netcodedev/website/pull/784) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🎉 Merged PR [#775](https://github.com/netcodedev/website/pull/775) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🔒 Closed issue [#21](https://github.com/bonsairobo/fast-surface-nets-rs/issues/21) in [bonsairobo/fast-surface-nets-rs](https://github.com/bonsairobo/fast-surface-nets-rs)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
