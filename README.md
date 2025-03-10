@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Voxel Engine
 - 🌱 I’m currently learning rust and OpenGL
-- 🥅 My Goal for 2024 is to get a better understanding of rust and OpenGL
+- 🥅 My Goal for 2025 is to get a better understanding of rust and OpenGL
 
 ## 🛠️ My Languages and Tools:
 
