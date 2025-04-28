@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/netcodedev/FerriteEngine/pull/15) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
-2. 🎉 Merged PR [#931](https://github.com/netcodedev/website/pull/931) in [netcodedev/website](https://github.com/netcodedev/website)
-3. 🎉 Merged PR [#32](https://github.com/netcodedev/dev.netcode.plugin/pull/32) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
-4. 🎉 Merged PR [#929](https://github.com/netcodedev/website/pull/929) in [netcodedev/website](https://github.com/netcodedev/website)
-5. 🎉 Merged PR [#50](https://github.com/netcodedev/dev.netcode.security/pull/50) in [netcodedev/dev.netcode.security](https://github.com/netcodedev/dev.netcode.security)
+1. 🎉 Merged PR [#934](https://github.com/netcodedev/website/pull/934) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🎉 Merged PR [#933](https://github.com/netcodedev/website/pull/933) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🎉 Merged PR [#15](https://github.com/netcodedev/FerriteEngine/pull/15) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
+4. 🎉 Merged PR [#931](https://github.com/netcodedev/website/pull/931) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🎉 Merged PR [#32](https://github.com/netcodedev/dev.netcode.plugin/pull/32) in [netcodedev/dev.netcode.plugin](https://github.com/netcodedev/dev.netcode.plugin)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
