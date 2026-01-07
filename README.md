@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Ben 
 ### ✌🏻 Loving father, coder, human
 
-- 🔭 I’m currently working on a Voxel Engine
-- 🌱 I’m currently learning rust and OpenGL
-- 🥅 My Goal for 2025 is to get a better understanding of rust and OpenGL
+- 🔭 I’m currently working on a CRM
+- 🌱 I’m currently learning rust and Docker
+- 🥅 My Goal for 2026 is to ship some stuff
 
 ## 🛠️ My Languages and Tools:
 
