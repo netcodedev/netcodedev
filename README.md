@@ -52,7 +52,7 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1142](https://github.com/netcodedev/website/pull/1142) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🗣 Commented on [#1969](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/issues/1969#issuecomment-3790131005) in [mysticaltech/terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner)
 2. 🎉 Merged PR [#1140](https://github.com/netcodedev/website/pull/1140) in [netcodedev/website](https://github.com/netcodedev/website)
 3. 🎉 Merged PR [#1137](https://github.com/netcodedev/website/pull/1137) in [netcodedev/website](https://github.com/netcodedev/website)
 4. 🎉 Merged PR [#1136](https://github.com/netcodedev/website/pull/1136) in [netcodedev/website](https://github.com/netcodedev/website)
