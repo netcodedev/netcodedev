@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1969](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner/issues/1969#issuecomment-3790131005) in [mysticaltech/terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner)
-2. 🎉 Merged PR [#1140](https://github.com/netcodedev/website/pull/1140) in [netcodedev/website](https://github.com/netcodedev/website)
-3. 🎉 Merged PR [#1137](https://github.com/netcodedev/website/pull/1137) in [netcodedev/website](https://github.com/netcodedev/website)
-4. 🎉 Merged PR [#1136](https://github.com/netcodedev/website/pull/1136) in [netcodedev/website](https://github.com/netcodedev/website)
-5. 🎉 Merged PR [#1135](https://github.com/netcodedev/website/pull/1135) in [netcodedev/website](https://github.com/netcodedev/website)
+1. 🔒 Closed issue [#4](https://github.com/netcodedev/website/issues/4) in [netcodedev/website](https://github.com/netcodedev/website)
+2. 🔒 Closed issue [#1](https://github.com/netcodedev/website/issues/1) in [netcodedev/website](https://github.com/netcodedev/website)
+3. 🗣 Commented on [#1158](https://github.com/netcodedev/website/pull/1158#issuecomment-3800566696) in [netcodedev/website](https://github.com/netcodedev/website)
+4. 🗣 Commented on [#1162](https://github.com/netcodedev/website/pull/1162#issuecomment-3800566035) in [netcodedev/website](https://github.com/netcodedev/website)
+5. 🗣 Commented on [#1163](https://github.com/netcodedev/website/pull/1163#issuecomment-3800565381) in [netcodedev/website](https://github.com/netcodedev/website)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
