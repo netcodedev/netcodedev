@@ -52,8 +52,8 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/netcodedev/dev.netcode.blockchain/pull/46#issuecomment-3800597233) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
-2. 🗣 Commented on [#46](https://github.com/netcodedev/dev.netcode.blockchain/pull/46#issuecomment-3800594640) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
+1. ℹ️ Labeled issue [#7531](https://github.com/surrealdb/surrealdb/issues/7531) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+2. ❗ Opened issue [#7531](https://github.com/surrealdb/surrealdb/issues/7531) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 3. 🗣 Commented on [#47](https://github.com/netcodedev/dev.netcode.blockchain/pull/47#issuecomment-3800590179) in [netcodedev/dev.netcode.blockchain](https://github.com/netcodedev/dev.netcode.blockchain)
 4. 🔒 Closed issue [#4](https://github.com/netcodedev/website/issues/4) in [netcodedev/website](https://github.com/netcodedev/website)
 5. 🔒 Closed issue [#1](https://github.com/netcodedev/website/issues/1) in [netcodedev/website](https://github.com/netcodedev/website)
