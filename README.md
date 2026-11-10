@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/netcodedev/keystone/pull/1) in [netcodedev/keystone](https://github.com/netcodedev/keystone)
-2. 💪 Opened PR [#1](https://github.com/netcodedev/keystone/pull/1) in [netcodedev/keystone](https://github.com/netcodedev/keystone)
-3. ℹ️ Labeled issue [#7531](https://github.com/surrealdb/surrealdb/issues/7531) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-4. ❗ Opened issue [#7531](https://github.com/surrealdb/surrealdb/issues/7531) in [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-5. 🔒 Closed issue [#1](https://github.com/netcodedev/website/issues/1) in [netcodedev/website](https://github.com/netcodedev/website)
+1. ℹ️ Assigned PR [#5](https://github.com/netcodedev/LogicCircuit/pull/5) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
+2. 💪 Opened PR [#5](https://github.com/netcodedev/LogicCircuit/pull/5) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
+3. 🎉 Merged PR [#4](https://github.com/netcodedev/LogicCircuit/pull/4) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
+4. ℹ️ Assigned PR [#4](https://github.com/netcodedev/LogicCircuit/pull/4) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
+5. 💪 Opened PR [#4](https://github.com/netcodedev/LogicCircuit/pull/4) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
