@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/netcodedev/LogicCircuit/pull/8) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
-2. 🎉 Merged PR [#7](https://github.com/netcodedev/LogicCircuit/pull/7) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
-3. ℹ️ Assigned PR [#7](https://github.com/netcodedev/LogicCircuit/pull/7) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
-4. 💪 Opened PR [#7](https://github.com/netcodedev/LogicCircuit/pull/7) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
-5. 🎉 Merged PR [#6](https://github.com/netcodedev/LogicCircuit/pull/6) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
+1. 🎉 Merged PR [#12](https://github.com/netcodedev/LogicCircuit/pull/12) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
+2. ℹ️ Assigned PR [#12](https://github.com/netcodedev/LogicCircuit/pull/12) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
+3. 💪 Opened PR [#12](https://github.com/netcodedev/LogicCircuit/pull/12) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
+4. 🎉 Merged PR [#11](https://github.com/netcodedev/LogicCircuit/pull/11) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
+5. ℹ️ Assigned PR [#11](https://github.com/netcodedev/LogicCircuit/pull/11) in [netcodedev/LogicCircuit](https://github.com/netcodedev/LogicCircuit)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
