@@ -52,11 +52,11 @@
 ## 🔥 Recent activity:
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#75](https://github.com/netcodedev/FerriteEngine/pull/75) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
-2. 💪 Opened PR [#75](https://github.com/netcodedev/FerriteEngine/pull/75) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
-3. ℹ️ Assigned PR [#74](https://github.com/netcodedev/FerriteEngine/pull/74) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
-4. 💪 Opened PR [#74](https://github.com/netcodedev/FerriteEngine/pull/74) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
-5. ℹ️ Assigned PR [#73](https://github.com/netcodedev/FerriteEngine/pull/73) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
+1. 🎉 Merged PR [#79](https://github.com/netcodedev/FerriteEngine/pull/79) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
+2. 🎉 Merged PR [#78](https://github.com/netcodedev/FerriteEngine/pull/78) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
+3. 🎉 Merged PR [#77](https://github.com/netcodedev/FerriteEngine/pull/77) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
+4. 🎉 Merged PR [#76](https://github.com/netcodedev/FerriteEngine/pull/76) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
+5. ℹ️ Assigned PR [#79](https://github.com/netcodedev/FerriteEngine/pull/79) in [netcodedev/FerriteEngine](https://github.com/netcodedev/FerriteEngine)
 <!--END_SECTION:activity-->
 
 [bitbite]: https://github.com/bitbitedev
